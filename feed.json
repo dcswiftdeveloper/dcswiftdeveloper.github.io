@@ -20,8 +20,10 @@
 		"bannerImageURL" : "https://dcswiftdeveloper.github.io/quizBot/quizBot.png",
 		"additionalInformation" : [
 		{
-		"name": "Pensato per",
-		"value": "scuola secondaria secondo grado"
+		"Autore": "Domenico Caggiano",
+		"Versione": "1.1",
+		"Pubblicazione": "19 Aprile 2019",
+		"Lingua": "Italiano"
 		}
 		],
 		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/quizBot/quizBot.png","https://dcswiftdeveloper.github.io/quizBot/quizBot.png","https://dcswiftdeveloper.github.io/quizBot/quizBot.png"]
