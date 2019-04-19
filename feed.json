@@ -1,0 +1,30 @@
+{
+	"title": "Playgrounds by Domenico Caggiano",
+	"publisherName": "Domenico Caggiano",
+	"feedIdentifier" : "io.github.dcswiftdeveloper.",
+	"contactURL" : "mailto:domenico.caggiano@gmail.com",
+	"formatVersion": "1.1",
+	"documents": [
+	{
+		"title" : "Quiz Bot",
+		"overviewSubtitle" : "QuizBot Challenge",
+		"detailSubtitle": "Costruiamo un Quiz interrattivo",
+		"description": "Playground realizzato in collaborazione con...",
+		"contentIdentifier": "io.github.dcswiftdeveloper.quizBot",
+		"contentVersion": "1.0.3",
+		"url": "https://dcswiftdeveloper..github.io/quizBot/quizBot.playgroundbook.zip",
+		"publishedDate": "2018-07-09T09:00:00+07:00",
+		"lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
+		"thumbnailURL": "https://dcswiftdeveloper..github.io/quizBot/quizBot.png",
+		"bannerImageURL" : "https://dcswiftdeveloper..github.io/quizBot/quizBot.png",
+		"additionalInformation" : [
+		{
+		"name": "Pensato per",
+		"value": "scuola secondaria secondo grado"
+		}
+		],
+		"previewImageURLs" : ["https://dcswiftdeveloper..github.io/quizBot/quizBot.png","https://dcswiftdeveloper..github.io/quizBot/quizBot.png","https://dcswiftdeveloper..github.io/quizBot/quizBot.png"  ]
+	},
+    
+]
+}
