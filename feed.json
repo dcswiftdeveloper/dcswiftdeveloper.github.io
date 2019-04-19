@@ -19,12 +19,23 @@
 		"thumbnailURL": "https://dcswiftdeveloper.github.io/quizBot/quizBot.png",
 		"bannerImageURL" : "https://dcswiftdeveloper.github.io/quizBot/quizBot.png",
 		"additionalInformation" : [
-		{
-		"name": "Autore:",
-		"value": "Domenico Caggiano",
-		"name": "Data di uscita:",
-		"value": "19 Aprile 2019"
-		}
+			{
+			"name": "Autore:",
+			"value": "Domenico Caggiano"
+			},
+			{
+			"name": "Versione:",
+			"value": "1.1"
+			},
+			{
+			"type": "date",
+			"name": "Data di uscita:",
+			"value": "2019-04-19T12:00:00+00:00"
+			},
+			{
+			"name": "Languages:",
+			"value": "Italiano"
+			}
 		],
 		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/quizBot/quizBot.png","https://dcswiftdeveloper.github.io/quizBot/quizBot.png","https://dcswiftdeveloper.github.io/quizBot/quizBot.png"]
 	}
