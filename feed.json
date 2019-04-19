@@ -6,10 +6,11 @@
 	"formatVersion": "1.1",
 	"documents": [
 	{
-		"title" : "Quiz Bot",
-		"overviewSubtitle" : "QuizBot Challenge",
+		"title" : "QuizBot Challenge",
+		"overviewSubtitle" : "Domenico Caggiano",
 		"detailSubtitle": "Costruiamo un Quiz interrattivo",
 		"description": "Playground realizzato in collaborazione con...",
+		"difficultyLevel": "intermediate",
 		"contentIdentifier": "io.github.dcswiftdeveloper.quizBot",
 		"contentVersion": "1.0.3",
 		"url": "https://dcswiftdeveloper.github.io/quizBot/quizBot.playgroundbook.zip",
