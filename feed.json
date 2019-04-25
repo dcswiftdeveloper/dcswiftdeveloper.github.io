@@ -42,9 +42,9 @@
 		{
 		"title" : "UiKit",
 		"overviewSubtitle" : "Domenico Caggiano",
-		"detailSubtitle": "Costruiamo un Quiz interrattivo",
-		"description": "L'attività propone lo sviluppo di un playground per la creazione di un Bot con intelligenza artificiale, con cui l'utente può interagire per la compilazione di un quiz a risposta multipla multidisciplinare, con valutazione e correzione delle risposte date. L'approccio utilizzato è basato sul paradigma divide et impera, che rende facilmente riutilizzabile il codice ed adattabile a diversi scenari didattici. Punteggi, aree tematiche, domande e risposte sono personalizzabili.",
-		"difficultyLevel": "intermediate",
+		"detailSubtitle": "UiKot",
+		"description": "Ukit",
+		"difficultyLevel": "beginner",
 		"contentIdentifier": "io.github.dcswiftdeveloper.temp",
 		"contentVersion": "1.0.3",
 		"url": "https://dcswiftdeveloper.github.io/UiKit/temp.playgroundbook.zip",
