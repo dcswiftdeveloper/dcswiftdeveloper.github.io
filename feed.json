@@ -50,8 +50,8 @@
 		"url": "https://dcswiftdeveloper.github.io/UiKit/temp.playgroundbook.zip",
 		"publishedDate": "2018-07-09T09:00:00+07:00",
 		"lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
-		"thumbnailURL": "https://dcswiftdeveloper.github.io/UiKit/quizBot.png",
-		"bannerImageURL" : "https://dcswiftdeveloper.github.io/UiKit/quizBot.png",
+		"thumbnailURL": "https://dcswiftdeveloper.github.io/UiKit/UiKit.png",
+		"bannerImageURL" : "https://dcswiftdeveloper.github.io/UiKit/UiKit.png",
 		"additionalInformation" : [
 			{
 			"name": "Autore:",
@@ -71,7 +71,7 @@
 			"value": "Italiano"
 			}
 		],
-		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/UiKit/quizBot.png","https://dcswiftdeveloper.github.io/UiKit/quizBot.png","https://dcswiftdeveloper.github.io/UiKit/quizBot.png"]
+		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png"]
 	}
 ]
 }
