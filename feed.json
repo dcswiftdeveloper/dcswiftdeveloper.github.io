@@ -76,8 +76,8 @@
 		{
 		"title" : "Swift the Basics",
 		"overviewSubtitle" : "Domenico Caggiano",
-		"detailSubtitle": "UiKot",
-		"description": "Ukit",
+		"detailSubtitle": "Swift the Basics",
+		"description": "Swift the Basics",
 		"difficultyLevel": "beginner",
 		"contentIdentifier": "io.github.dcswiftdeveloper.theBasics",
 		"contentVersion": "1.0.3",
