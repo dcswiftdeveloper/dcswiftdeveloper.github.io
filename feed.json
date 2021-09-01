@@ -75,8 +75,8 @@
 	},
 		{
 		"title" : "Social Media Manager",
-		"overviewSubtitle" : "Swift Coding Club",
-		"detailSubtitle": "Condividi il tuo post!",
+		"overviewSubtitle" : "Condividi il tuo post!",
+		"detailSubtitle": "Gestione e condivisione di post attraverso Swift Playground",
 		"description": "Swift the Basics",
 		"difficultyLevel": "advanced",
 		"contentIdentifier": "io.github.dcswiftdeveloper.socialMediaPostManager",
