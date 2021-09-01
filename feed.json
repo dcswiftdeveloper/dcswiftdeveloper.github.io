@@ -75,8 +75,8 @@
 	},
 		{
 		"title" : "Social Media Manager",
-		"overviewSubtitle" : "Domenico Caggiano",
-		"detailSubtitle": "Social Media Manager",
+		"overviewSubtitle" : "Swift Coding Club",
+		"detailSubtitle": "Condividi il tuo post!",
 		"description": "Swift the Basics",
 		"difficultyLevel": "beginner",
 		"contentIdentifier": "io.github.dcswiftdeveloper.socialMediaPostManager",
