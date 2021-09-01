@@ -76,7 +76,7 @@
 		{
 		"title" : "Social Media Manager",
 		"overviewSubtitle" : "Condividi il tuo post!",
-		"detailSubtitle": "Gestione e condivisione di post attraverso Swift Playground",
+		"detailSubtitle": "Gestione e condivisione",
 		"description": "descrizione",
 		"difficultyLevel": "advanced",
 		"contentIdentifier": "io.github.dcswiftdeveloper.socialMediaPostManager",
