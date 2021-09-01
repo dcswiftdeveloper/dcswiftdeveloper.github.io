@@ -108,9 +108,9 @@
 		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png"]
 	},
 		{
-		"title" : "Swift the Basics",
-		"overviewSubtitle" : "Domenico Caggiano",
-		"detailSubtitle": "Swift the Basics",
+		"title" : "Social Media Post Manaer",
+		"overviewSubtitle" : "Swift Coding Club",
+		"detailSubtitle": "Condividi il tuo post!",
 		"description": "Swift the Basics",
 		"difficultyLevel": "beginner",
 		"contentIdentifier": "io.github.dcswiftdeveloper.theBasics",
