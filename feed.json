@@ -77,7 +77,7 @@
 		"title" : "Social Media Manager",
 		"overviewSubtitle" : "Condividi il tuo post!",
 		"detailSubtitle": "Gestione e condivisione di post attraverso Swift Playground",
-		"description": "Alcuni studenti del corso \“Swift Coding Club\” dell’Istituto Sacro Cuore di Napoli hanno acquisito competenze avanzate di programmazione per sviluppare un’idea condivisa a lezione con i compagni di classe, realizzando una versione rivisitata in \“salsa Swift\” di un Social Network. \n\n Il progetto, che ha richiesto una profonda personalizzazione del modello \“Risposte\”, consente, attraverso alcune fasi guidate, la gestione delle seguenti operazioni disponibili su un post: \n * creazione e personalizzazione delle proprietà (testo, immagine, tag, hashtag, commenti e like) \n * gestione (modifica delle proprietà ed eliminazione) \n * condivisione tramite email \n * salvataggio su file \n * gestione della galleria immagini \n\n Crea il tuo primo Post, personalizzando tutte le proprietà disponibili!\n Eventualmente potrai condividerlo con i tuoi amici, lasciandoti aiutare dall’assistente virtuale, che ti guiderà nel processo. \n Oppure prova anche tu a realizzare una versione personalizzata del modello \“Risposte\”, seguendo i suggerimenti forniti nel Playground Book!",
+		"description": "descrizione",
 		"difficultyLevel": "advanced",
 		"contentIdentifier": "io.github.dcswiftdeveloper.socialMediaPostManager",
 		"contentVersion": "1.0.2",
