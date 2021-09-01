@@ -118,8 +118,8 @@
 		"url": "https://dcswiftdeveloper.github.io/socialMediaManager/socialMediaManager.playgroundbook.zip",
 		"publishedDate": "2017-08-09T09:00:00+07:00",
 		"lastUpdatedDate" : "2017-09-10T12:00:00+07:00",
-		"thumbnailURL": "https://dcswiftdeveloper.github.io/theBasics/swiftLogo.png",
-		"bannerImageURL" : "https://dcswiftdeveloper.github.io/theBasics/swiftLogo.png",
+		"thumbnailURL": "https://dcswiftdeveloper.github.io/socialMediaManager/socialMediaManagerLogov2.png",
+		"bannerImageURL" : "https://dcswiftdeveloper.github.io/socialMediaManager/socialMediaManagerLogov2.png",
 		"additionalInformation" : [
 			{
 			"name": "Autore:",
@@ -139,7 +139,7 @@
 			"value": "Italiano"
 			}
 		],
-		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/theBasics/swiftLogo.png","https://dcswiftdeveloper.github.io/theBasics/swiftLogo.png","https://dcswiftdeveloper.github.io/theBasics/swiftLogo.png"]
+		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/socialMediaManager/smpm_1.jpg","https://dcswiftdeveloper.github.io/socialMediaManager/smpm_2.jpg","https://dcswiftdeveloper.github.io/socialMediaManager/smpm_3.jpg"]
 	}
 ]
 }
