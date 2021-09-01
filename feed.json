@@ -9,8 +9,7 @@
 		"title" : "Swift the Basics",
 		"overviewSubtitle" : "Domenico Caggiano",
 		"detailSubtitle": "Swift the Basics",
-		"description": "Alcuni studenti del corso “Swift Coding Club” dell’Istituto Sacro Cuore di Napoli hanno acquisito competenze avanzate di programmazione \
-per sviluppare un’idea condivisa a lezione con i compagni di classe, \ realizzando una versione rivisitata in “salsa Swift” di un Social Network.",
+		"description": "Swift the Basics",
 		"difficultyLevel": "beginner",
 		"contentIdentifier": "io.github.dcswiftdeveloper.theBasics",
 		"contentVersion": "1.0.2",
@@ -78,7 +77,7 @@ per sviluppare un’idea condivisa a lezione con i compagni di classe, \ realizz
 		"title" : "Social Media Manager",
 		"overviewSubtitle" : "Condividi il tuo post!",
 		"detailSubtitle": "Gestione e condivisione di post attraverso Swift Playground",
-		"description": "Swift the Basics",
+		"description": "Alcuni studenti del corso “Swift Coding Club” dell’Istituto Sacro Cuore di Napoli hanno acquisito competenze avanzate di programmazione per sviluppare un’idea condivisa a lezione con i compagni di classe, realizzando una versione rivisitata in “salsa Swift” di un Social Network. \n\n",
 		"difficultyLevel": "advanced",
 		"contentIdentifier": "io.github.dcswiftdeveloper.socialMediaPostManager",
 		"contentVersion": "1.0.2",
