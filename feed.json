@@ -78,7 +78,7 @@
 		"overviewSubtitle" : "Swift Coding Club",
 		"detailSubtitle": "Condividi il tuo post!",
 		"description": "Swift the Basics",
-		"difficultyLevel": "beginner",
+		"difficultyLevel": "advanced",
 		"contentIdentifier": "io.github.dcswiftdeveloper.socialMediaPostManager",
 		"contentVersion": "1.0.2",
 		"url": "https://dcswiftdeveloper.github.io/socialMediaManager/socialMediaManager.playgroundbook.zip",
