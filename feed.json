@@ -108,14 +108,14 @@
 		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png"]
 	},
 		{
-		"title" : "Swift the Basics2",
+		"title" : "Social Media Manager",
 		"overviewSubtitle" : "Domenico Caggiano",
-		"detailSubtitle": "Swift the Basics",
+		"detailSubtitle": "Social Media Manager",
 		"description": "Swift the Basics",
 		"difficultyLevel": "beginner",
-		"contentIdentifier": "io.github.dcswiftdeveloper.theBasics",
+		"contentIdentifier": "io.github.dcswiftdeveloper.socialMediaPostManager",
 		"contentVersion": "1.0.2",
-		"url": "https://dcswiftdeveloper.github.io/theBasics/theBasics.playgroundbook.zip",
+		"url": "https://dcswiftdeveloper.github.io/socialMediaManager/socialMediaManager.playgroundbook.zip",
 		"publishedDate": "2017-08-09T09:00:00+07:00",
 		"lastUpdatedDate" : "2017-09-10T12:00:00+07:00",
 		"thumbnailURL": "https://dcswiftdeveloper.github.io/theBasics/swiftLogo.png",
