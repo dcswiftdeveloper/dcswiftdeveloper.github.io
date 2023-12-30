@@ -146,18 +146,18 @@
 		"overviewSubtitle" : "Domenico Caggiano",
 		"detailSubtitle": "UiKot",
 		"description": "Ukit",
-		"difficultyLevel": "beginner",
+		"difficultyLevel": "advanced",
 		"contentIdentifier": "io.github.dcswiftdeveloper.feelIt",
 		"contentVersion": "1.0.3",
 		"url": "https://dcswiftdeveloper.github.io/feelIt/Feelit–FeedPubblication.swiftpm.zip",
 		"publishedDate": "2018-07-09T09:00:00+07:00",
 		"lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
-		"thumbnailURL": "https://dcswiftdeveloper.github.io/UiKit/UiKit.png",
-		"bannerImageURL" : "https://dcswiftdeveloper.github.io/UiKit/UiKit.png",
+		"thumbnailURL": "https://dcswiftdeveloper.github.io/feelIt/feelItAppIcon.png",
+		"bannerImageURL" : "https://dcswiftdeveloper.github.io/feelIt/feelItAppIcon.png",
 		"additionalInformation" : [
 			{
 			"name": "Autore:",
-			"value": "Domenico Caggiano"
+			"value": "Alessio Garzia Marotta Brusco"
 			},
 			{
 			"name": "Versione:",
@@ -166,14 +166,14 @@
 			{
 			"type": "date",
 			"name": "Data di uscita:",
-			"value": "2019-04-19T12:00:00+00:00"
+			"value": "2023-05-23T12:00:00+00:00"
 			},
 			{
 			"name": "Languages:",
 			"value": "Italiano"
 			}
 		],
-		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png"]
+		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/feelIt/feelItAppIcon.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png","https://dcswiftdeveloper.github.io/UiKit/UiKit.png"]
 	}
 ]
 }
