@@ -152,8 +152,8 @@
 		"url": "https://dcswiftdeveloper.github.io/feelIt/Feelit–FeedPubblication.swiftpm.zip",
 		"publishedDate": "2018-07-09T09:00:00+07:00",
 		"lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
-		"thumbnailURL": "https://dcswiftdeveloper.github.io/feelIt/feelit.png",
-		"bannerImageURL" : "https://dcswiftdeveloper.github.io/feelIt/feelit.png",
+		"thumbnailURL": "https://dcswiftdeveloper.github.io/feelIt/feelIttpng",
+		"bannerImageURL" : "https://dcswiftdeveloper.github.io/feelIt/feelIt.png",
 		"additionalInformation" : [
 			{
 			"name": "Autore:",
@@ -170,7 +170,7 @@
 			},
 			{
 			"name": "Languages:",
-			"value": "Italiano"
+			"value": "English"
 			}
 		],
 		"previewImageURLs" : ["https://dcswiftdeveloper.github.io/feelIt/feelit1.png","https://dcswiftdeveloper.github.io/feelIt/feelit2.png","https://dcswiftdeveloper.github.io/feelIt/feelit3.png","https://dcswiftdeveloper.github.io/feelIt/feelit4.png"]
