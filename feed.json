@@ -144,7 +144,7 @@
 		{
 		"title" : "Feel It",
 		"overviewSubtitle" : "A new way to feel color",
-		"detailSubtitle": "WWDC23 Winner!",
+		"detailSubtitle": "WWDC23 Swift Student Challenge Winner!",
 		"description": "\"Feel It\" is a palette creator that has as its primary goal the sensibilisation of users to use colour in a more thoughtful way, having the feelings that colour can convey in mind.\nThe app lets the user create palettes, add colours to them through an RGB-value editor, select the feeling that they mean to convey, from a base-selection drawn from the papers I studied. \nThis information will be used to determine a \"coherence score\" and plot a graph of what the palette transmits.\n\"Feel It\" works in both light and dark mode and with VoiceOver. ",
 		"difficultyLevel": "advanced",
 		"contentIdentifier": "io.github.dcswiftdeveloper.feelIt",
