@@ -143,8 +143,8 @@
 	},
 		{
 		"title" : "Feel It",
-		"overviewSubtitle" : "Create original palettes",
-		"detailSubtitle": "WWDC23 Winner!",
+		"overviewSubtitle" : "A new way too feel color",
+		"detailSubtitle": "Create original palettes for your every need - WWDC23 Winner!",
 		"description": "Feel It is a palette creator that has as its primary goal the sensibilisation of users to use colour in a more thoughtful way, having the feelings that colour can convey in mind. The app I built lets the user create palettes, add colours to them through an RGB-value editor, select the feeling that they mean to convey, from a base-selection drawn from the papers I studied. This information will be used to determine a coherence score and plot a graph of what the palette transmits. The app also lets the user export and share their palette through a .zip file (this feature will only work on the simulator since the app playground format doesn't allow asking for disk access permissions). Feel it works in both light and dark mode, on iPhone and iPad, and with VoiceOver. To make sure you have the best experience, make sure to run it on a device.",
 		"difficultyLevel": "advanced",
 		"contentIdentifier": "io.github.dcswiftdeveloper.feelIt",
